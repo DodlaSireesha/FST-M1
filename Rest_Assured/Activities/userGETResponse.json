@@ -1,5 +1,6 @@
 {
-    "code": 1,
-    "type": "error",
-    "message": "User not found"
+    "firstName": "Siree",
+    "lastName": "Shaaa",
+    "id": 123,
+    "email": "siree@example.com"
 }
